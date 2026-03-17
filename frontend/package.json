@@ -1,0 +1,11 @@
+{
+  "name": "trigger-lock-extension-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Add bundler (vite/webpack) and build steps here\"",
+    "start": "echo \"Start dev server\"",
+    "lint": "echo \"Run eslint\""
+  },
+  "devDependencies": {}
+}
