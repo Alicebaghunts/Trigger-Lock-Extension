@@ -94,8 +94,3 @@ server/
 
 - Open issues for bugs or feature requests.
 - Pull requests should include a description, testing steps, and be targeted at `main`.
-
-## License
-
-Add a `LICENSE` file (e.g. MIT) if you plan to open source this repository.
-
